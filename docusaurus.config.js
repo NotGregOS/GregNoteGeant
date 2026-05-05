@@ -90,7 +90,7 @@ const config = {
         },
         items: [
           {
-            to: '/fr',
+            to: '/docs/fr',
             label: 'Catégories',
             position: 'left'
           },
@@ -110,11 +110,11 @@ const config = {
             items: [
               {
                 label: 'FR',
-                to: '/docs/FR',
+                to: '/docs/fr',
               },
               {
-                label: 'FR',
-                to: '/docs/EN',
+                label: 'EN',
+                to: '/docs/en',
               },
             ],
           },
