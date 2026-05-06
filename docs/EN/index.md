@@ -1,16 +1,22 @@
 # English
-### - [Awesome](./EN/awesome)
-### - [AI](./EN/ai)
-### - [API](./EN/api)
-### - [Coding](./EN/code)
-### - [Misc](./EN/divers)
-### - [Fun](./EN/fun)
-### - [Gaming](./EN/game)
-### - [Hacking](./EN/hacking)
-### - [Hosting](./EN/host)
-### - [Linux](./EN/linux)
-### - [Movie](./EN/movie)
-### - [OSINT](./EN/osint)
-### - [Reverse-Search](./EN/reverse-search)
-### - [Storage](./EN/storage)
-### - [Torrent](./EN/torrent)
+### - [Awesome](./Catégories/awesome)
+### - [AI](./Catégories/ai)
+### - [API](./Catégories/api)
+### - [Coding](./Catégories/code)
+### - [Divers](./Catégories/divers)
+### - [Fun](./Catégories/fun)
+### - [Game](./Catégories/game)
+### - [Hacking](./Catégories/hacking)
+### - [Hosting](./Catégories/host)
+### - [Linux](./Catégories/linux)
+### - [Movie](./Catégories/movie)
+### - [OSINT](./Catégories/osint)
+### - [Reverse-Search](./Catégories/reverse-search)
+### - [Storage](./Catégories/storage)
+### - [Torrent](./Catégories/torrent)
+
+***
+
+**[Back to the top](#english)**
+
+**[Aller à l'Index Français ?](../fr)**
