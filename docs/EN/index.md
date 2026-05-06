@@ -1,22 +1,22 @@
 # English
-### - [Awesome](./Catégories/awesome)
-### - [AI](./Catégories/ai)
-### - [API](./Catégories/api)
-### - [Coding](./Catégories/code)
-### - [Divers](./Catégories/divers)
-### - [Fun](./Catégories/fun)
-### - [Game](./Catégories/game)
-### - [Hacking](./Catégories/hacking)
-### - [Hosting](./Catégories/host)
-### - [Linux](./Catégories/linux)
-### - [Movie](./Catégories/movie)
-### - [OSINT](./Catégories/osint)
-### - [Reverse-Search](./Catégories/reverse-search)
-### - [Storage](./Catégories/storage)
-### - [Torrent](./Catégories/torrent)
+### - [Awesome](/docs/EN/Catégories/awesome)
+### - [AI](/docs/EN/Catégories/ai)
+### - [API](/docs/EN/Catégories/api)
+### - [Coding](/docs/EN/Catégories/code)
+### - [Divers](/docs/EN/Catégories/divers)
+### - [Fun](/docs/EN/Catégories/fun)
+### - [Game](/docs/EN/Catégories/game)
+### - [Hacking](/docs/EN/Catégories/hacking)
+### - [Hosting](/docs/EN/Catégories/host)
+### - [Linux](/docs/EN/Catégories/linux)
+### - [Movie](/docs/EN/Catégories/movie)
+### - [OSINT](/docs/EN/Catégories/osint)
+### - [Reverse-Search](/docs/EN/Catégories/reverse-search)
+### - [Storage](/docs/EN/Catégories/storage)
+### - [Torrent](/docs/EN/Catégories/torrent)
 
 ***
 
 **[Back to the top](#english)**
 
-**[Aller à l'Index Français ?](../fr)**
+**[Aller à l'Index Français ?](./docs/EN/fr)**
