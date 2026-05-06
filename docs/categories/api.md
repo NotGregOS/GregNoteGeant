@@ -88,20 +88,6 @@ info Descriptions
 
 ---
 
-### 🔗 [Lyricsovh](https://lyricsovh.docs.apiary.io/>~~)
-
-**Lien :** `https://lyricsovh.docs.apiary.io/>~~`
-
-info Descriptions
-
-**FR :** Lieu où sont stockés les API
-
-**EN :** Where APIs are stored
-
-
-
----
-
 ### 🔗 [Libretranslate](https://libretranslate.com/docs/#/)
 
 **Lien :** `https://libretranslate.com/docs/#/`
@@ -111,20 +97,6 @@ info Descriptions
 **FR :** Interface utilisateur de Swagger UI pour la documentation Libretranslate
 
 **EN :** Swagger UI interface for the Libretranslate documentation
-
-
-
----
-
-### 🔗 [Funtranslations](https://api.funtranslations.com/)
-
-**Lien :** `https://api.funtranslations.com/`
-
-info Descriptions
-
-**FR :** Erreur d&#x27;accès au site.
-
-**EN :** Error accessing the website.
 
 
 
@@ -283,5 +255,3 @@ info Descriptions
 
 
 ---
-
-
