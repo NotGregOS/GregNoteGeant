@@ -37,3 +37,9 @@
 - [Small Games](https://smallgames.ch/) - Catalogue de ROMs Nintendo Switch
 ## Guides
 - [Wand](https://wand.com/fr) - Guides pour jeux PC
+
+***
+
+**[Retour en haut](#gaming)**
+
+**[Retour à l'index](../fr)**
