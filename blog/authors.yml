@@ -1,25 +1,24 @@
-yangshun:
-  name: Yangshun Tay
-  title: Ex-Meta Staff Engineer, Co-founder GreatFrontEnd
-  url: https://linkedin.com/in/yangshun
-  image_url: https://github.com/yangshun.png
+gregos:
+  name: GregOS
+  title: Leader of GregOS
+  image_url: https://github.com/NotGregOS.png
   page: true
   socials:
-    x: yangshunz
-    linkedin: yangshun
-    github: yangshun
-    newsletter: https://www.greatfrontend.com
+    github: NotGregOS
 
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
-  page:
-    # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+patpat:
+  name: patpat
+  title: Co-leader of GregOS
+  image_url: https://github.com/patpat200.png
+  page: true
   socials:
-    x: sebastienlorber
-    linkedin: sebastienlorber
-    github: slorber
-    newsletter: https://thisweekinreact.com
+    github: patpat200
+
+lukeywookey:
+  name: LukeyWookey
+  title: Co-leader of GregOS
+  image_url: https://github.com/LukeyWookey.png
+  page: true
+  socials:
+    github: LukeyWookey
+    
