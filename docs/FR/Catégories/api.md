@@ -11,7 +11,8 @@
 - [VocaDB](https://vocadb.net/swagger/index.html/) - API d'info musicale (Vocaloid) / [Docs](https://wiki.vocadb.net/docs/api-and-embeds/)
 - [Nekosia](https://nekosia.cat/) - API d'images tirées d'animés organisés par tags / [NodeJS](https://www.npmjs.com/package/nekosia.js/)
 - [Sightengine](https://sightengine.com/) - API de modération d'image
-- [Modrinth's API](https://api.modrinth.com/) - API pour chercher des Mods Minecraft
+- [The Acronym Server](https://acronyms.silmaril.ie/#api) - API pour obtenir la signification d'une abbréviation/d'un acronyme
+- [Datagouv](https://www.data.gouv.fr) - API des données de la France
 
 ***
 
