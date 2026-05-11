@@ -7,4 +7,4 @@
 
 **[Retour en haut](#hosting)**
 
-**[Retour à l'index](../fr)**
+**[Retour à l'index](../)**

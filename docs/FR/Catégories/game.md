@@ -42,4 +42,4 @@
 
 **[Retour en haut](#gaming)**
 
-**[Retour à l'index](../fr)**
+**[Retour à l'index](../)**

@@ -21,4 +21,4 @@
 
 **[Retour en haut](#films--séries--animés)**
 
-**[Retour à l'index](../fr)**
+**[Retour à l'index](../)**

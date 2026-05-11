@@ -18,4 +18,4 @@
 
 **[Retour en haut](#api)**
 
-**[Retour à l'index](../fr)**
+**[Retour à l'index](../)**

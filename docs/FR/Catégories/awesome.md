@@ -7,4 +7,4 @@
 
 **[Retour en haut](#awesome)**
 
-**[Retour à l'index](../fr)**
+**[Retour à l'index](../)**
