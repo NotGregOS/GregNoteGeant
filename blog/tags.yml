@@ -15,5 +15,5 @@ stars:
 
 removed:
   label: Things removed
-  permalink: /stars
+  permalink: /removed
   description: Things that we removed from the wiki
