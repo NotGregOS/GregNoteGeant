@@ -1,5 +1,19 @@
 modification:
   label: Modification
   permalink: /modification
-  description: Modifications we've done
+  description: All the modifications we've done
 
+wiki:
+  label: Wiki Update
+  permalink: /wiki
+  description: Sections/Categories & Links added to the wiki
+
+stars:
+  label: Stars Added
+  permalink: /stars
+  description: Stars that we've added
+
+removed:
+  label: Things removed
+  permalink: /stars
+  description: Things that we removed from the wiki
