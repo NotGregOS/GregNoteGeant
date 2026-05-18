@@ -114,17 +114,30 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Resources',
             items: [
               {
-                label: 'FR',
+                label: 'Docs FR',
                 to: '/docs/fr',
               },
               {
-                label: 'EN',
+                label: 'Docs EN',
                 to: '/docs/en',
               },
+              {
+                label: 'Blog',
+                to: '/blog',
+              },
             ],
+          },
+          {
+            title: 'Community',
+            items: [
+              {
+                label: 'Website',
+                href: 'https://gregos.org',
+              },
+            ]
           },
           {
             title: 'More',
@@ -132,6 +145,10 @@ const config = {
               {
                 label: 'GitHub',
                 href: 'https://github.com/NotGregOS/GregNoteGeant',
+              },
+              {
+                label: 'Raise an issue',
+                href: 'https://github.com/NotGregOS/GregNoteGeant/issues/new',
               },
             ],
           },
